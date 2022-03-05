@@ -4,8 +4,10 @@
 
 View the [Changelog](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md)
 
-# OBSIDIAN VERSION UNDER DEVELOPMENT!
-[Obsidian](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple, however Obsidian is much more. Follow the progress in [Changelog.md](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md), and the file-tree is located in the [Downloads > Obsidian](https://github.com/OldManUmby/OGL-SRD5/tree/master/downloads/obsidian) folder.
+# REorganized. REpublished. REmastered!
+
+## NOW OBSIDIAN-FRIENDLY!
+[Obsidian.md](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple, however Obsidian is much, much more. Visit [Josh Plunket's YouTube Channel](https://www.youtube.com/channel/UCoW2sPmrevk9eiJKcQXeHUQ) to learn more about using Obsidian for your roleplaying game campaign management.
 
 ---
 
