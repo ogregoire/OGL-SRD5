@@ -23,12 +23,12 @@ The publishing documents contained herein were REmastered line-by-line into Mark
 
 # Discussions & Issues
 
-Feel free to visit our [discussions](https://github.com/OldManUmby/DND-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/OldManUmby/DND-SRD5/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/OldManUmby/DND-SRD5/pulls).
+Feel free to visit our [discussions](https://github.com/OldManUmby/DND.SRD.Wiki/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/OldManUmby/DND.SRD.Wiki/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/OldManUmby/DND.SRD.Wiki/pulls).
 
 # Get Downloads
 
-* Download the latest [Release](https://github.com/OldManUmby/DND-SRD5/releases) which includes the complete repository of all files.
-* Download the [Markdown](https://github.com/OldManUmby/DND-SRD5/archive/master.zip) or select another [publishing format](https://github.com/OldManUmby/DND-SRD5/tree/master/downloads).
+* Download the latest [Release](https://github.com/OldManUmby/DND.SRD.Wiki/releases) which includes the complete repository of all files.
+* Download the [Markdown](https://github.com/OldManUmby/DND.SRD.Wiki/archive/master.zip) or select another [publishing format](https://github.com/OldManUmby/DND.SRD.Wiki/tree/master/downloads).
 * Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
