@@ -1,4 +1,4 @@
-![REmastered Logo](RE&.logo.1000.286.144.png)
+![REmastered Logo](RE&.logo.png)
 
 ![Fan Site Kit Image](ToDKeyArt2.jpg)
 
